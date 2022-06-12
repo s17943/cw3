@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YysHUtXz8ohZvaVEsNIlpmhMK+CrrqdAGhTbdK9JQb3JBQ49+uh4goDvsNfg83krRESzVQhgAe7jARL3bEc6jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jasiek\\RiderProjects\\Cwiczenia3\\Cw3\\Cw3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jasiek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
